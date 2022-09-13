@@ -1,7 +1,9 @@
+# 128-bit Polynomial Multiplication in $GF(2^{128})$
+
 Language Specification: Program is written in Python 3.
 
 # AIM: 
-To find the multiplication of two 128-bit polynomials in 𝐺𝐹(2128) modulo prime polynomial 𝑥^128 + 𝑥^7 + 𝑥^2 + 𝑥 + 1
+To find the multiplication of two 128-bit polynomials in $𝐺𝐹(2^{128})$ modulo prime polynomial $𝑥^{128} + 𝑥^7 + 𝑥^2 + 𝑥 + 1$
 
 # EXECUTING THE PROGRAM:
 - command to execute: py PolyMul.py
@@ -10,7 +12,7 @@ To find the multiplication of two 128-bit polynomials in 𝐺𝐹(2128) modulo p
 # INPUT FORMAT:
 - The program  reads two  sequences of integers representing the input polynomials
 - The polynomials are represented as a sequence of SPACE SEPARATED integers
-- For example, x^8 + x^2 + 1 will be represented as: 8 2 1
+- For example, $x^8 + x^2 + 1$ will be represented as: 8 2 1
 - The integers can be entered in any order (not necessarily decreasing)
 - If same integer is entered more than once for the same polynomial, then it will be considered only once, for example 7 7 1 will be considered as 7 1
 - These integers must be between 127 to 0 (both inclusive) 
@@ -31,4 +33,4 @@ To find the multiplication of two 128-bit polynomials in 𝐺𝐹(2128) modulo p
 - Enter anyting except 1 as input (after result or error) and press ENTER. (or directly press ENTER, without any input)
 - Again press ENTER button to close the terminal/exit the program.
 
-sample.txt is the sample output.
+### sample.txt is the sample output.
