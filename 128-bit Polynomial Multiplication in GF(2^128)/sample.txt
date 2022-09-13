@@ -1,0 +1,47 @@
+INPUT #1:
+Enter the polynomials as a sequence of integers separated by spaces
+Enter first polynomial: 112 110 83 27 19 10 2 0
+Enter second polynomial: 127 123 113 9 1
+Result: 127 125 121 119 118 116 115 114 113 111 110 108 106 105 104 102 99 98 96 95 92 89 85 83 82 80 79 78 75 70 69 68 36 33 29 28 27 26 25 24 23 22 21 19 18 15 13 10 8 7 4 2
+
+Enter 1 to enter next input or anything else to STOP
+1
+
+INPUT #2:
+Enter the polynomials as a sequence of integers separated by spaces
+Enter first polynomial: 112 110 102 1
+Enter second polynomial: 22
+Result: 124 23 13 11 8 7 5 4
+
+Enter 1 to enter next input or anything else to STOP
+1
+
+INPUT #3:
+Enter the polynomials as a sequence of integers separated by spaces
+Enter first polynomial: 127 113 100 98 88 71 8
+Enter second polynomial: 0
+Result: 127 113 100 98 88 71 8
+
+Enter 1 to enter next input or anything else to STOP
+1
+
+INPUT #4:
+Enter the polynomials as a sequence of integers separated by spaces
+Enter first polynomial: 122 117 100 37 11 0 
+Enter second polynomial: 10 
+Result: 127 110 47 21 11 10 6 5 4
+
+Enter 1 to enter next input or anything else to STOP
+1
+
+INPUT #5:
+Enter the polynomials as a sequence of integers separated by spaces
+Enter first polynomial: 122 117 100 37 11 1 
+Enter second polynomial: 77
+Result: 114 88 72 71 68 67 66 56 51 50 49
+
+Enter 1 to enter next input or anything else to STOP
+
+
+Press ENTER key to exit terminal/close program.
+

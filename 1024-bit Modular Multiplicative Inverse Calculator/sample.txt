@@ -1,0 +1,123 @@
+GENERATING 1024 BIT PRIME NUMBER
+Attempt #1
+Result: FAILED  |  Tests Done: 1
+Attempt #2
+Result: FAILED  |  Tests Done: 1
+Attempt #3
+Result: FAILED  |  Tests Done: 1
+Attempt #4
+Result: FAILED  |  Tests Done: 1
+Attempt #5
+Result: FAILED  |  Tests Done: 1
+Attempt #6
+Result: FAILED  |  Tests Done: 1
+Attempt #7
+Result: FAILED  |  Tests Done: 1
+Attempt #8
+Result: FAILED  |  Tests Done: 1
+Attempt #9
+Result: FAILED  |  Tests Done: 1
+Attempt #10
+Result: FAILED  |  Tests Done: 1
+Attempt #11
+Result: FAILED  |  Tests Done: 1
+Attempt #12
+Result: FAILED  |  Tests Done: 1
+Attempt #13
+Result: FAILED  |  Tests Done: 1
+Attempt #14
+Result: FAILED  |  Tests Done: 1
+Attempt #15
+Result: FAILED  |  Tests Done: 1
+Attempt #16
+Result: FAILED  |  Tests Done: 1
+Attempt #17
+Result: FAILED  |  Tests Done: 1
+Attempt #18
+Result: FAILED  |  Tests Done: 1
+Attempt #19
+Result: FAILED  |  Tests Done: 1
+Attempt #20
+Result: FAILED  |  Tests Done: 1
+Attempt #21
+Result: FAILED  |  Tests Done: 1
+Attempt #22
+Result: FAILED  |  Tests Done: 1
+Attempt #23
+Result: FAILED  |  Tests Done: 1
+Attempt #24
+Result: FAILED  |  Tests Done: 1
+Attempt #25
+Result: FAILED  |  Tests Done: 1
+Attempt #26
+Result: FAILED  |  Tests Done: 1
+Attempt #27
+Result: FAILED  |  Tests Done: 1
+Attempt #28
+Result: FAILED  |  Tests Done: 1
+Attempt #29
+Result: FAILED  |  Tests Done: 1
+Attempt #30
+Result: FAILED  |  Tests Done: 1
+Attempt #31
+Result: FAILED  |  Tests Done: 1
+Attempt #32
+Result: FAILED  |  Tests Done: 1
+Attempt #33
+Result: FAILED  |  Tests Done: 1
+Attempt #34
+Result: FAILED  |  Tests Done: 1
+Attempt #35
+Result: FAILED  |  Tests Done: 1
+Attempt #36
+Result: FAILED  |  Tests Done: 1
+Attempt #37
+Result: SUCCESS  |  Tests Done: 10
+====================================================================================================
+GENERATED 1024 BIT PRIME NUMBER (further referred as N):
+130622311807995528106288661907100991198241315570253651634437113844026065475808496038115594732585564928512352129174730993483163690148765475431576545988500790416267698790600460559346970722227391841832389797842208885815668274082554187644927504371958319079865645659016755437720216475602992225292691251926460968319
+
+====================================================================================================
+INPUT #1
+====================================================================================================
+Enter a number (further referred as A) to find multiplicative inverse modulo N
+(OR Enter anything else to STOP)
+94131
+
+Multiplicative inverse of A modulo N (further referred as inv):
+DECIMAL
+117556056398150887205322837252977876250746438989642499263912420980300518817213423227937264108221373754862095490572046787061926591781163137023786075718050848924521338379978094530867393576329726656264470809023623734602568100189136182621453437580291816732541013821202414049637931592469085491131193118175204140306
+
+BINARY
+1010011101100111110001110000111010011110110011100010101100000001111111110001111011101010001100101100110010011000101010011001011001000010101001101010010101011000100001011011100000101000101000110111111101000011001101000101100000010000100010011101111111011001000010001010100100011011101010010110000000010010000011010010100110000110111010010000000000101111011101110000110000010110100110010000000101111000111000011011001110111000101101001011001011101100000100100000000111100101110111010001101111111110011110010111011010101010111001011010111110110111100110001011000110100101001111010110101011010100111011100000111110000001111110011101010100110111110000100110100100110110100101110001101000110110011110010110100110101011001110011001010111001010111100111100000000011010001101001100110010101110111111110110011001100011101110110000010000111110100111011110000000011011001110000111001100010000000011001001001010000100110011101001110110110010110111110101100100110110011111110010101101110011011011110100001100101010110000101110010100010010
+
+Check for correctness: Performing (A * inv) mod N
+RESULT: 1
+(Further verification: Calculate the multiplicative inverse of inv (DECIMAL) printed above.)
+
+====================================================================================================
+INPUT #2
+====================================================================================================
+Enter a number (further referred as A) to find multiplicative inverse modulo N
+(OR Enter anything else to STOP)
+117556056398150887205322837252977876250746438989642499263912420980300518817213423227937264108221373754862095490572046787061926591781163137023786075718050848924521338379978094530867393576329726656264470809023623734602568100189136182621453437580291816732541013821202414049637931592469085491131193118175204140306
+
+Multiplicative inverse of A modulo N (further referred as inv):
+DECIMAL
+94131
+
+BINARY
+10110111110110011
+
+Check for correctness: Performing (A * inv) mod N
+RESULT: 1
+(Further verification: Calculate the multiplicative inverse of inv (DECIMAL) printed above.)
+
+====================================================================================================
+INPUT #3
+====================================================================================================
+Enter a number (further referred as A) to find multiplicative inverse modulo N
+(OR Enter anything else to STOP)
+
+Press ENTER key to stop / close program completely
+

@@ -1,0 +1,252 @@
+GENERATING 1024 BIT PRIME NUMBER
+Attempt #1
+Result: FAILED  |  Tests Done: 1
+Attempt #2
+Result: FAILED  |  Tests Done: 1
+Attempt #3
+Result: FAILED  |  Tests Done: 1
+Attempt #4
+Result: FAILED  |  Tests Done: 1
+Attempt #5
+Result: FAILED  |  Tests Done: 1
+Attempt #6
+Result: FAILED  |  Tests Done: 1
+Attempt #7
+Result: FAILED  |  Tests Done: 1
+Attempt #8
+Result: FAILED  |  Tests Done: 1
+Attempt #9
+Result: FAILED  |  Tests Done: 1
+Attempt #10
+Result: FAILED  |  Tests Done: 1
+Attempt #11
+Result: FAILED  |  Tests Done: 1
+Attempt #12
+Result: FAILED  |  Tests Done: 1
+Attempt #13
+Result: FAILED  |  Tests Done: 1
+Attempt #14
+Result: FAILED  |  Tests Done: 1
+Attempt #15
+Result: FAILED  |  Tests Done: 1
+Attempt #16
+Result: FAILED  |  Tests Done: 1
+Attempt #17
+Result: FAILED  |  Tests Done: 1
+Attempt #18
+Result: FAILED  |  Tests Done: 1
+Attempt #19
+Result: FAILED  |  Tests Done: 1
+Attempt #20
+Result: FAILED  |  Tests Done: 1
+Attempt #21
+Result: FAILED  |  Tests Done: 1
+Attempt #22
+Result: FAILED  |  Tests Done: 1
+Attempt #23
+Result: FAILED  |  Tests Done: 1
+Attempt #24
+Result: FAILED  |  Tests Done: 1
+Attempt #25
+Result: FAILED  |  Tests Done: 1
+Attempt #26
+Result: FAILED  |  Tests Done: 1
+Attempt #27
+Result: FAILED  |  Tests Done: 1
+Attempt #28
+Result: FAILED  |  Tests Done: 1
+Attempt #29
+Result: FAILED  |  Tests Done: 1
+Attempt #30
+Result: FAILED  |  Tests Done: 1
+Attempt #31
+Result: FAILED  |  Tests Done: 1
+Attempt #32
+Result: FAILED  |  Tests Done: 1
+Attempt #33
+Result: FAILED  |  Tests Done: 1
+Attempt #34
+Result: FAILED  |  Tests Done: 1
+Attempt #35
+Result: FAILED  |  Tests Done: 1
+Attempt #36
+Result: FAILED  |  Tests Done: 1
+Attempt #37
+Result: FAILED  |  Tests Done: 1
+Attempt #38
+Result: FAILED  |  Tests Done: 1
+Attempt #39
+Result: FAILED  |  Tests Done: 1
+Attempt #40
+Result: FAILED  |  Tests Done: 1
+Attempt #41
+Result: FAILED  |  Tests Done: 1
+Attempt #42
+Result: FAILED  |  Tests Done: 1
+Attempt #43
+Result: FAILED  |  Tests Done: 1
+Attempt #44
+Result: FAILED  |  Tests Done: 1
+Attempt #45
+Result: FAILED  |  Tests Done: 1
+Attempt #46
+Result: FAILED  |  Tests Done: 1
+Attempt #47
+Result: FAILED  |  Tests Done: 1
+Attempt #48
+Result: FAILED  |  Tests Done: 1
+Attempt #49
+Result: FAILED  |  Tests Done: 1
+Attempt #50
+Result: FAILED  |  Tests Done: 1
+Attempt #51
+Result: FAILED  |  Tests Done: 1
+Attempt #52
+Result: FAILED  |  Tests Done: 1
+Attempt #53
+Result: FAILED  |  Tests Done: 1
+Attempt #54
+Result: FAILED  |  Tests Done: 1
+Attempt #55
+Result: FAILED  |  Tests Done: 1
+Attempt #56
+Result: FAILED  |  Tests Done: 1
+Attempt #57
+Result: FAILED  |  Tests Done: 1
+Attempt #58
+Result: FAILED  |  Tests Done: 1
+Attempt #59
+Result: FAILED  |  Tests Done: 1
+Attempt #60
+Result: FAILED  |  Tests Done: 1
+Attempt #61
+Result: FAILED  |  Tests Done: 1
+Attempt #62
+Result: FAILED  |  Tests Done: 1
+Attempt #63
+Result: FAILED  |  Tests Done: 1
+Attempt #64
+Result: FAILED  |  Tests Done: 1
+Attempt #65
+Result: FAILED  |  Tests Done: 1
+Attempt #66
+Result: FAILED  |  Tests Done: 1
+Attempt #67
+Result: FAILED  |  Tests Done: 1
+Attempt #68
+Result: FAILED  |  Tests Done: 1
+Attempt #69
+Result: FAILED  |  Tests Done: 1
+Attempt #70
+Result: FAILED  |  Tests Done: 1
+Attempt #71
+Result: FAILED  |  Tests Done: 1
+Attempt #72
+Result: FAILED  |  Tests Done: 1
+Attempt #73
+Result: FAILED  |  Tests Done: 1
+Attempt #74
+Result: FAILED  |  Tests Done: 1
+Attempt #75
+Result: FAILED  |  Tests Done: 1
+Attempt #76
+Result: FAILED  |  Tests Done: 1
+Attempt #77
+Result: FAILED  |  Tests Done: 1
+Attempt #78
+Result: FAILED  |  Tests Done: 1
+Attempt #79
+Result: FAILED  |  Tests Done: 1
+Attempt #80
+Result: FAILED  |  Tests Done: 1
+Attempt #81
+Result: FAILED  |  Tests Done: 1
+Attempt #82
+Result: FAILED  |  Tests Done: 1
+Attempt #83
+Result: FAILED  |  Tests Done: 1
+Attempt #84
+Result: FAILED  |  Tests Done: 1
+Attempt #85
+Result: SUCCESS  |  Tests Done: 10
+====================================================================================================
+GENERATED 1024 BIT PRIME NUMBER:
+
+DECIMAL
+91860488034032915221944156429341039085548948475784119756591630256580458140453790714273271728751948105957408631005357810962421161517761780205562718137001178390287159999891018914408554773114243123729900197458014870215822167290731471148714755685820087649318279471597675143881608757028915179908378736667816321881
+
+BINARY
+1000001011010000010011010010010101100000111111110111001100100001011000111000110100000001011001110000011101011001100110001011111011000011010001110100101011000110110101000000010011111111000000010011101011111010100101011011010010001010110101111100110010101101011111000000101100001111010000011110110111010000101101110100000001111011111100110111110000101110011111000010001110110000011101011000100111001111111100001101100110111011010100110111000110111011110110111110100010000010011001010001101101101101010011110101001011111001000001110101011011111000110101000000101000110010001001101111000110010011011011101101111010001001000001010001101010101111001001001000010010101100101000100111011111100100100010110000011000100100101110111000100110011111111000011100011101000111111101000100101110001111010101101000100001000000000011011011101111101110000100011000010001110110000011001111111000010110111011010110001110100100010001000101011110001111110011100111001101101111011110101110001001001010010011101000110110011000001010110110001101011001
+====================================================================================================
+Enter 1 to generate another prime or any other input to stop
+1
+GENERATING 1024 BIT PRIME NUMBER
+Attempt #1
+Result: FAILED  |  Tests Done: 1
+Attempt #2
+Result: FAILED  |  Tests Done: 1
+Attempt #3
+Result: FAILED  |  Tests Done: 1
+Attempt #4
+Result: FAILED  |  Tests Done: 1
+Attempt #5
+Result: FAILED  |  Tests Done: 1
+Attempt #6
+Result: FAILED  |  Tests Done: 1
+Attempt #7
+Result: FAILED  |  Tests Done: 1
+Attempt #8
+Result: FAILED  |  Tests Done: 1
+Attempt #9
+Result: FAILED  |  Tests Done: 1
+Attempt #10
+Result: FAILED  |  Tests Done: 1
+Attempt #11
+Result: FAILED  |  Tests Done: 1
+Attempt #12
+Result: FAILED  |  Tests Done: 1
+Attempt #13
+Result: FAILED  |  Tests Done: 1
+Attempt #14
+Result: FAILED  |  Tests Done: 1
+Attempt #15
+Result: FAILED  |  Tests Done: 1
+Attempt #16
+Result: FAILED  |  Tests Done: 1
+Attempt #17
+Result: FAILED  |  Tests Done: 1
+Attempt #18
+Result: FAILED  |  Tests Done: 1
+Attempt #19
+Result: FAILED  |  Tests Done: 1
+Attempt #20
+Result: FAILED  |  Tests Done: 1
+Attempt #21
+Result: FAILED  |  Tests Done: 1
+Attempt #22
+Result: FAILED  |  Tests Done: 1
+Attempt #23
+Result: FAILED  |  Tests Done: 1
+Attempt #24
+Result: FAILED  |  Tests Done: 1
+Attempt #25
+Result: FAILED  |  Tests Done: 1
+Attempt #26
+Result: FAILED  |  Tests Done: 1
+Attempt #27
+Result: FAILED  |  Tests Done: 1
+Attempt #28
+Result: SUCCESS  |  Tests Done: 10
+====================================================================================================
+GENERATED 1024 BIT PRIME NUMBER:
+
+DECIMAL
+146726363618869815570661925646273713962705170237288703259583380007723110126227877197933483241172935752378912123704592654380037950667992767925399703080200095059128208039711721380636485246188595173684117567635418886315852095311350317979998411048266637739698759713425967547737167068886596021663444029834895391789
+
+BINARY
+1101000011110001111111011011010000111110010111000101100101001000010101000101010111111110011110100000101000100001110010001001011100110000010001010010001011001000010100100101101110111110101100111011000110000000110100000100100111111111111011111111001000011100101100111011001100010100100010100011110001100101111011110100011111101101001111111010000010110111111101010111001110001011101110000011101100110010001010111101001111001011100110100110000010010100100101111110011111100111000100011100100000001100110001110111001000111110011100000001010000000001111110000111011111100000001101000100110100000111010111001111000110010000010111111100111110100101000000110111011000111000100010001110101101000010101001000010000011101011101000101010100111010101000100101100111110001111011100001000101000100010101101000110000000001000000100011000000001011000011010000101001111011111111011101010011100010010110000001110101101000110111100111110010000101000001010101000001111111111001110011111000100010110000011011001111011001101101110010111110000101101
+====================================================================================================
+Enter 1 to generate another prime or any other input to stop
+
+Press ENTER key to stop / close program completely
+
