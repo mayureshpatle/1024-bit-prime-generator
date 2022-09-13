@@ -1,8 +1,7 @@
+# 1024-bit Prime Generator
+
 Language Specification: Program is written in Python 3.
 
-====================================================================================================
-1024-bit Prime Generator
-====================================================================================================
 # EXECUTING THE PROGRAM:
 - command to execute: py PrimeGenerator.py
 - OR, double click on the PrimeGenerator.py file to run.
@@ -19,4 +18,4 @@ Language Specification: Program is written in Python 3.
 - Enter anyting except 1 as input and press ENTER. (or directly press ENTER, without any input)
 - Again press ENTER button to close the terminal/exit the program.
 
-Sample.txt is the sample output.
+### Sample.txt is the sample output.
