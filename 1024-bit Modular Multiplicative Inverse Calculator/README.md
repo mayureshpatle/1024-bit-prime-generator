@@ -1,8 +1,7 @@
+# 1024-bit Modular Multiplicative Inverse Calculator
+
 Language Specification: Program is written in Python 3.
 
-====================================================================================================
-Modular Multiplicative Inverse Calculator
-====================================================================================================
 # EXECUTING THE PROGRAM:
 - command to execute: py InverseCalculator.py
 - OR, double click on the InverseCalculator.py file to run.
@@ -12,7 +11,7 @@ Modular Multiplicative Inverse Calculator
 - The program will print the test status for each odd number tested. (comment out line no 93 and 94 to disable printing these details).
 - Finally after printing the prime number (N), the program will ask for next operation.
 
-# FINDING MULTIPLICATIVE INVERSE OF ANY NUMBER (A) MODULO N:
+# GET MULTIPLICATIVE INVERSE OF ANY NUMBER (A) MODULO N:
 - Enter any number (A) in decimal notation as input and press ENTER key to find the multiplicative inverse of A modulo N.
 - The program will print the inverse in both decimal and binary notations.
 
@@ -25,4 +24,4 @@ Modular Multiplicative Inverse Calculator
 - Enter anyting except a number as input and press ENTER. (or directly press ENTER, without any input)
 - Again press ENTER button to close the terminal/exit the program.
 
-Sample.txt is the sample output.
+### Sample.txt is the sample output.
